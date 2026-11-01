@@ -118,3 +118,9 @@ Cada conteúdo será desenvolvido seguindo uma estrutura de aprendizagem:
 - [Curso de Python — Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 
 ## 🌱 Evolução contínua
+
+Este repositório será atualizado continuamente conforme o avanço dos estudos.
+
+A proposta é registrar não apenas os resultados, mas também o processo de aprendizagem, fortalecendo os fundamentos necessários para evoluir na área de desenvolvimento de software.
+
+
